@@ -1,0 +1,23 @@
+{
+  "name": "cn.lys.audiomanager",
+  "displayName": "Lys.AudioManager",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "category": "Audio",
+  "description": "音效管理器，支持 AudioBank、AudioGroup、可扩展播放条件系统和可视化编辑器",
+  "author": {
+    "name": "liyingsong",
+    "url": "https://github.com/liyingsong"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liyingsong/Lys_AudioManager.git"
+  },
+  "keywords": [
+    "audio",
+    "sound",
+    "manager",
+    "yooasset"
+  ],
+  "dependencies": {}
+}

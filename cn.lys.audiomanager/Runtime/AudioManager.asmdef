@@ -1,0 +1,17 @@
+{
+    "name": "AudioManager",
+    "rootNamespace": "Lys.Audio",
+    "references": [
+        "YooAsset",
+        "Sirenix.OdinInspector.Attributes"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
